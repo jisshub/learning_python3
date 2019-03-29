@@ -1,0 +1,6 @@
+WebScrapping/
+codingpractices/
+*.csv
+books_data.csv.xlsx 
+*.ipynb_checkpoints
+debug.log
